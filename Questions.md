@@ -243,3 +243,81 @@ Area=pi*R^2 Circum=2*pi*R?
 
 ## Array Programs
 
+#### Q75. Write a program that reads 5 integer value in array and finds their total and average?
+
+#### Q76. Write a program that input 10 integers and print the biggest one?
+
+#### Q77. Write a program that reads marks of n students and print the number of students passed. The marks are in the range of 0 to 100 and passing marks are 33?
+
+#### Q78. Write a program that declares two dimensional array of 3 rows and 4 cols, initialized with data 30,20,55,200,78,81,23,25,3,48,54,90 and find the total of all the values?
+
+#### Q79. Write a program that multiply each element of array by 2 that has 3 rows and 4 cols and display it in the form of matrix, the array is initialized to data from 1 to 12 for 3 rows and 4 cols?
+
+#### Q80. Write a program that prompts user to enter 12 integer in a 2d array that has 3 rows and 4 cols and finds the largest number?
+
+- - -
+
+## String Programs
+
+#### Q81. Program that demonstrate cin.get() string function?
+
+#### Q82. Program that demonstrate strcpy() string function?
+
+#### Q83. Program that demonstrate strcat() string function?
+
+#### Q84. Program that demonstrate strlen() string function?
+
+#### Q85. Program that demonstrate strcmp() string function?
+
+- - -
+
+## Pointer Program
+
+#### Q86. Program that demonstrate the working of pointer with reference and dereference opeartors?
+
+- - -
+
+## Function Programs
+
+#### Q87. Write a program that display a message using function?
+
+#### Q88. Write a program that display Pakistan 10 times using function?
+
+#### Q89. Write a program that input two numbers in main and pass these numbers to a function the function display the maximum number?
+
+#### Q90. Write a program that input a number in main and passes the number to a function that display the table of that number?
+
+#### Q91. Write a program that input 2 numbers and send to a function, the function returns the maximum number back to the main and displayed?
+
+#### Q92. Write a program that input height and base of a triangle in main and pass to a function, the function finds the area of triangle and return it to a main and display. 
+```
+Area=1/2(base*Height)
+```
+
+#### Q93. Write a program that inputs a number pass it to a function, the function return it after increment it by 10, the increment number displayed in main?
+
+#### Q94. Write a program that input a number in global variable, it calls a function that multiplies the global variable by 2, the main display value of global variable?
+
+#### Q95. Write a program that accepts two number from user and display these numbers are equal or not using function?
+
+#### Q96. Write a program that input two number passes to the function Add(), the function adds the number and return to main and result is displayed on the screen?
+
+#### Q97. Write a program that uses a function to calculate area or circumferemce of circle and returns the value to main. 
+```
+C=2*pi*R
+```
+
+#### Q98. Write a program that calls two functions, Draw_Horizontal() and Draw_Vertical() to construct a rectangle according to call?
+
+#### Q99. Write a program that input two integers and then prompts the user to enter the choice, it the choice is 1 then numbers are added, for choice 2 its subtract, for choice 3 it perform multiplication and for choice 4 it show division, Write 4 functions Add(),Sub(),Mul(),Div() to complete this task?
+
+#### Q100. Write a function named Print_Asteriks that will print the stars according to given pattern, invoke them in main to print.
+```
+*	*	*	*	*
+	*	*	*	*
+		*	*	*
+			*	*
+				*
+```
+
+- - -

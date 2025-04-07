@@ -1,4 +1,6 @@
-# 100 Practice Questions - Credits: 
+# 100 Practice Questions (C++)
+
+### Credits: 
 - Questions: [VICS](https://www.youtube.com/@virtualinstituteofcs_VICS)
 - Solution: [Talha Ahmad](https://github.com/TalhaProgrammer92)
 
